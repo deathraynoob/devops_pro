@@ -1,3 +1,6 @@
+# Push part we have done working mode
+#here we added new branch from localhost and update the data then we will push to github account
+
 # ineuron
 # here adding new line for fetch and merge option checking
 
